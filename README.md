@@ -42,7 +42,7 @@ Script que processa arquivos CSV, aplica fórmulas como PROCV e salva automatica
 
 ## 📫 Contato
  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: www.linkedin.com/in/rianpereiradecarvalho
 
 
 
