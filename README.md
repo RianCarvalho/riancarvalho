@@ -25,8 +25,6 @@
 
 - 💼 LinkedIn: [www.linkedin.com/in/rianpereiradecarvalho)
 
-- ## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RianCarvalho&show_icons=true&theme=radical)
