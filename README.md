@@ -27,6 +27,9 @@
 
 - ## 📊 GitHub Stats
 
-![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianpcode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianpcode&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![Rian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RianCarvalho&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RianCarvalho&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RianCarvalho&theme=radical)](https://git.io/streak-stats)
 
