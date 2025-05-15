@@ -23,4 +23,10 @@
 
 ## 📫 Como me encontrar 
 
-- 💼 LinkedIn: [www.linkedin.com/in/rianpereiradecarvalho)  
+- 💼 LinkedIn: [www.linkedin.com/in/rianpereiradecarvalho)
+
+- ## 📊 GitHub Stats
+
+![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianpcode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianpcode&layout=compact&theme=radical)
+
