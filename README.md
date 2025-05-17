@@ -143,7 +143,7 @@
 ## 🧠 Projeto em destaque
 
 📊 **Automação de Indicadores com Python**  
-Script que processa arquivos CSV, aplica fórmulas como PROCV e salva automaticamente os resultados. Usado para otimizar o controle de indicadores em ambiente corporativo.
+Script em Python que usa as bibliotecas pandas, openpyxl e tkinter para processar arquivos CSV, aplicar fórmulas (como PROCV) e salvar automaticamente os resultados. Inclui uma interface gráfica para facilitar o controle de indicadores em ambiente corporativo.
 
 ---
 
